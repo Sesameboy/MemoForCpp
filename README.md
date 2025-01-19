@@ -1,2 +1,2 @@
-# MemoForC-
-备忘
+# MemoForCpp
+记录一些常用用法
